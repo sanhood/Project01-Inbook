@@ -501,6 +501,7 @@
 				333F339B1D7AB854005CF88D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		333F339C1D7AB854005CF88D /* Build configuration list for PBXNativeTarget "InbookTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +510,7 @@
 				333F339E1D7AB854005CF88D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		333F339F1D7AB854005CF88D /* Build configuration list for PBXNativeTarget "InbookUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +519,7 @@
 				333F33A11D7AB854005CF88D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
